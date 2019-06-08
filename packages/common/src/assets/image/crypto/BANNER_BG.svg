@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1134" viewBox="0 0 1600 1134">
+  <defs>
+    <linearGradient id="banner_bg-a" x1="67.326%" x2="50%" y1="6.346%" y2="100%">
+      <stop offset="0%" stop-color="#09153F"/>
+      <stop offset="100%" stop-color="#384DBE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1599" height="1133" x=".5" y=".5" fill="url(#banner_bg-a)" stroke="#979797"/>
+</svg>
